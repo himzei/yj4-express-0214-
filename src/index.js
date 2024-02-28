@@ -11,6 +11,7 @@ const corsOptions = {
     "http://localhost:5172",
     "http://localhost:5173",
     "http://localhost:3000",
+    "https://dynamic-sundae-4d7f60.netlify.app",
   ],
 };
 const PORT = process.env.PORT;
